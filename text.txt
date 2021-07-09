@@ -1,1 +1,1 @@
-version with Github
+version with Github v2
